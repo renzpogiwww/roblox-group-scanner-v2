@@ -21,12 +21,12 @@ optional arguments:
   -r RANGE, --range RANGE
                         Range of group ids to be scanned
   -c CUT_OFF, --cut-off CUT_OFF
-                        Group ids past this point won't be blacklisted based on their current validity status.
+                        Group ids past this point won't be blacklisted based on their current validity status
   -p PROXY_FILE, --proxy-file PROXY_FILE
                         List of HTTP proxies
   -u WEBHOOK_URL, --webhook-url WEBHOOK_URL
                         Webhook for results
   --chunk-size CHUNK_SIZE
-                        Amount of groups to be checked per request
+                        Amount of groups to be checked per API request
   --timeout TIMEOUT     Timeout for server responses
 ```
