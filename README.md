@@ -1,7 +1,7 @@
 # roblox-group-scanner-v2
 Python 3 tool for finding unclaimed groups on Roblox. Supports multi-threading, multi-processing and HTTP proxies.
 
-Unlike [roblox-group-scanner](https://github.com/h0nde/roblox-group-scanner), this tool uses the bulk api endpoint for group details, thus resulting in speeds that are up to 100x faster.
+Unlike [roblox-group-scanner](https://github.com/h0nde/roblox-group-scanner), this tool uses the bulk api endpoint for group details, thus resulting in performance increases of up to 100x.
 
 # Usage
 ```bash
